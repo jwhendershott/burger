@@ -1,15 +1,5 @@
 const connection = require('./connection.js');
 
-const printQuestionMarks = (num) => {
-  const arr = [];
-
-  for (let i = 0; i < num; i++) {
-    arr.push('?');
-  }
-
-  return arr.toString();
-};
-
 const objToSql = (ob) => {
   const arr = [];
 
