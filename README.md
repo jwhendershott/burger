@@ -2,13 +2,14 @@
 
 ![image](https://user-images.githubusercontent.com/70990105/107449097-91811b80-6b08-11eb-8ebc-8e5407cfb378.png)
 
-https://github.com/jwhendershott/burger
+* https://github.com/jwhendershott/burger
+* https://le-big-mac.herokuapp.com/
+
 <hr>
 
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
-* [Constribution](#contribution)
 * [Credits](#credits)
 * [License](#license)
         
@@ -17,15 +18,17 @@ https://github.com/jwhendershott/employee-tracker/
 
 ![MIT](https://img.shields.io/badge/License-MIT-green)
 
-A node based application to track and edit employee information using sql data and tables.
+> Well, if you like burgers, give them a try sometime. Me, I can't usually get 'em because my girlfriend's a vegetarian, which, pretty much makes me a vegetarian. I do love the taste of a good burger.
+> - Jules Winnfield, Pulp Fiction
 
-## Future Developement
-* Currently needing to resolve issues with add employee and add role functions.
+An application to add and devour tasty burgers.
 
 ## Installation
 * Clone from repository
 * Run npm install in terminal
-* Run App.js
+* Run server.js
+* Or visit https://le-big-mac.herokuapp.com/
+
 
 ## Credits
 UT Coding Bootcamp
