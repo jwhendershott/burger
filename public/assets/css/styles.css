@@ -1,0 +1,41 @@
+body {
+    background-image: url('https://cdn.vox-cdn.com/thumbor/UUgK2uae9U02N9C78nI_Lr6WzJ8=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19318808/Kahuna_Burger_Photo_with_Descriptions.jpg');   
+    background-size: 100%;
+    background-position-x: center;
+    background-repeat: no-repeat;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.addBurger {
+    background-color: wheat;
+    margin-top: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    width: fit-content;
+    block-size: fit-content;
+    border: lightblue;
+    border-style: solid;
+}
+
+.eatBurger {
+    background-color: wheat;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: lightblue;
+    border-style: solid;
+    display: flex;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+

@@ -39,13 +39,7 @@ const orm = {
   },
   create(table, cols, vals, cb) {
     let queryString = `INSERT INTO ${table}`;
-
-    queryString += ' (';
-    queryString += cols.toString();
-    queryString += ') ';
-    queryString += 'VALUES (';
-    queryString += printQuestionMarks(vals.length);
-    queryString += ') ';
+    queryString += ` (${cols.toString()}) VALUES ('${vals}')`;
 
     console.log(queryString);
 
