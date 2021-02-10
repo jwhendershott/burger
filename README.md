@@ -2,7 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/70990105/107449097-91811b80-6b08-11eb-8ebc-8e5407cfb378.png)
 
-* https://github.com/jwhendershott/burger
 * https://le-big-mac.herokuapp.com/
 
 <hr>
@@ -14,7 +13,7 @@
 * [License](#license)
         
 ## Description
-https://github.com/jwhendershott/employee-tracker/
+https://github.com/jwhendershott/burger
 
 ![MIT](https://img.shields.io/badge/License-MIT-green)
 
@@ -27,7 +26,7 @@ An application to add and devour tasty burgers.
 * Clone from repository
 * Run npm install in terminal
 * Run server.js
-* Or visit https://le-big-mac.herokuapp.com/
+
 
 
 ## Credits
